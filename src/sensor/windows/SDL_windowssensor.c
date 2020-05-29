@@ -32,7 +32,7 @@
 #include "../../core/windows/SDL_windows.h"
 
 #define COBJMACROS
-#include <InitGuid.h>
+#include <initguid.h>
 #include <SensorsApi.h>
 #include <Sensors.h>
 
